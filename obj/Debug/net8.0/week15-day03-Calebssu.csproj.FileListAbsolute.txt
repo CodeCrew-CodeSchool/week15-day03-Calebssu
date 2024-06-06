@@ -1,0 +1,15 @@
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\bin\Debug\net8.0\week15-day03-Calebssu.exe
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\bin\Debug\net8.0\week15-day03-Calebssu.deps.json
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\bin\Debug\net8.0\week15-day03-Calebssu.runtimeconfig.json
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\bin\Debug\net8.0\week15-day03-Calebssu.dll
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\bin\Debug\net8.0\week15-day03-Calebssu.pdb
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\week15-day03-Calebssu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\week15-day03-Calebssu.AssemblyInfoInputs.cache
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\week15-day03-Calebssu.AssemblyInfo.cs
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\week15-day03-Calebssu.csproj.CoreCompileInputs.cache
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\week15-day03-Calebssu.sourcelink.json
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\week15-day03-Calebssu.dll
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\refint\week15-day03-Calebssu.dll
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\week15-day03-Calebssu.pdb
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\week15-day03-Calebssu.genruntimeconfig.cache
+C:\Users\Student-8\Documents\Dev\week15-day03-Calebssu\obj\Debug\net8.0\ref\week15-day03-Calebssu.dll

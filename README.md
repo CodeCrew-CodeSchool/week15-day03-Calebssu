@@ -28,7 +28,7 @@ A winning board may look like this (O Wins!):
 
 ```text
 |X||X||O|
-|4||O||X|
+|4||O||X|  
 |O||X||9|
 ```
 
